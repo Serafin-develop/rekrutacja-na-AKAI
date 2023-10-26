@@ -1,1 +1,1 @@
-### TEST
+### Rozwiązania zadań z pakietu "js"
